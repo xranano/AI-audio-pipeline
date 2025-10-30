@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Transcripts and audio output
+*.mp3
+*.wav
+*.flac
+output_transcript.txt
+raw_transcript.txt
+output_summary.mp3
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Google Cloud SDK credentials or cache
+google-cloud-sdk/
+*.json
+
+# OS and editor junk
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
